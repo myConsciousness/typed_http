@@ -1,12 +1,20 @@
-name: denbun
+name: typed_http
 description: New experimental package.
 version: 0.0.0
-repository: https://github.com/myConsciousness/denbun
-issue_tracker: https://github.com/myConsciousness/denbun/issues
+repository: https://github.com/myConsciousness/typed_http
+issue_tracker: https://github.com/myConsciousness/denbun/typed_http
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
 
+dependencies:
+  http: ^0.13.5
+
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.21.0
+  build_runner: ^2.3.3
+  json_serializable: ^6.6.1
+  freezed: ^2.3.2
+  json_annotation: ^4.8.0
+  freezed_annotation: ^2.2.0
