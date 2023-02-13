@@ -1,8 +1,8 @@
-name: dttp
+name: denbun
 description: New experimental package.
 version: 0.0.0
-repository: https://github.com/myConsciousness/dttp
-issue_tracker: https://github.com/myConsciousness/dttp/issues
+repository: https://github.com/myConsciousness/denbun
+issue_tracker: https://github.com/myConsciousness/denbun/issues
 
 environment:
   sdk: '>=2.19.0 <3.0.0'

@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library dttp;
 
-export 'src/dttp_base.dart';
+export 'src/denbun.dart';
 
 // TODO: Export any libraries intended for clients of this package.

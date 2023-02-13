@@ -1,4 +1,4 @@
-import 'package:dttp/dttp.dart';
+import 'package:denbun/denbun.dart';
 
 void main() {
   var awesome = Awesome();
